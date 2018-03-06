@@ -4,8 +4,8 @@ layout: default
 
 <div class="page clearfix" index>
     <div class="left">
-        <h1>Welcome to HyG's Blog!</h1>
-        <small>这里记录着我的前端学习之路</small>
+        <h1>Welcome to m.renard's Blog!</h1>
+        <small>这是一个吃货的学习笔记</small>
         <hr>
         <ul>
             {% for post in paginator.posts %}
@@ -43,8 +43,6 @@ layout: default
               </li>
             {% endfor %}
         </ul>
-
-
 
         <!-- Pagination links -->
         <div class="pagination">
@@ -142,6 +140,18 @@ layout: default
                       <a href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
                     {% endfor %}
                 </div>
+            </div>
+
+            <div class="side">
+                <div>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+                    Recent Posts
+                </div>
+                <ul class="content-ul" recent>
+                    {% for post in site.posts offset: 0 limit: 10  %}
+                    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul>
             </div>
 
             <!-- <div class="side">
