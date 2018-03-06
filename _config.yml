@@ -9,14 +9,14 @@
 title: M.renard
 brief-intro: A Java Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://M-renard.github.io" # the base hostname & protocol for your site
+url: "https://renard711.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: 2fb8a395b4cc
 facebook_username:
-github_username:  M-renard
+github_username:  renard711
 email: yuao711@163.com
 weibo_username:
 zhihu_username: M.renard
@@ -26,10 +26,6 @@ dribbble_username: M_renard
 description_footer: 一个吃货的学习笔记！
 
 # comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-#duoshuo_shortname: #hygblog
-#disqus_shortname: gaohaoyang
 gitment:
   enable: ture
 
