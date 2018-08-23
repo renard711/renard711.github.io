@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mac配置JAVA_HOME"
-date:   2018-01-05 15:12:54
+date:   2017-01-05 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: JDK
 excerpt: JAVA_HOME相关配置。

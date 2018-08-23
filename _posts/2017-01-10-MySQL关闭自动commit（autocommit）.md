@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MySQL关闭自动commit（autocommit）"
-date:   2018-01-10 15:12:54
+date:   2017-01-10 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: MySQL
 author: M.renard

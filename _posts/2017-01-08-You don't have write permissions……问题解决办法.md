@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "You don't have write permissions……问题解决办法"
-date:   2018-01-08 15:12:54
+date:   2017-01-08 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: Ruby OSX/Linux
 author: M.renard

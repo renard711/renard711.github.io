@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "有关eclipse遇到An Error has Occurred. See the log file问题解决办法"
-date:   2018-01-02 15:12:54
+date:   2017-01-02 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: Eclipse
 author: M.renard

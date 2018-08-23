@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IDEA 遇到 Class JavaLaunchHelper is implemented in both XXX 问题解决办法"
-date:   2018-01-04 15:12:54
+date:   2017-01-04 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: IDEA
 author: M.renard

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MySQL不能设置DATE默认值"
-date:   2018-01-11 15:12:54
+date:   2017-01-11 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: MySQL
 author: M.renard

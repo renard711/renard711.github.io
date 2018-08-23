@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oracle SQL Developer MAC版修改为中文界面的方法"
-date:   2018-01-09 15:12:54
+date:   2017-01-09 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: SQL
 author: M.renard

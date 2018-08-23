@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eclipse 遇到 mac A Java Runtime Environment (JRE) or Java Development Kit (JDK) must be XXXX 问题解决办法"
-date:   2018-01-01 15:12:54
+date:   2017-01-01 15:12:54
 categories: 配置环境时候的各种ERROR
 tags: Eclipse JDK
 author: M.renard
